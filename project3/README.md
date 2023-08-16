@@ -13,7 +13,7 @@
 - HTML
 
 ## Competencies
-### JF 1 Explain and implement the process of building and deploying software across the Software Development Life Cycle and Project Life Cycle and describe how their role contributes to their team and organization
+### JF 1: Explain and implement the process of building and deploying software across the Software Development Life Cycle and Project Life Cycle and describe how their role contributes to their team and organization
 - Jf 1.5:
   - Can work effectively and contribute approprately on a team to produce software
   - I developed my skills of working on a team with this project
