@@ -1,5 +1,5 @@
 ## Full Stack Space tours website
-- A basic informational website using HTML, CSS, and Javascript 
+A basic informational website using HTML, CSS, and Javascript.
 - Focuses on any user who would like to learn more about space tourism
 - Provides a pleasing user experience to browse and learn about space tourism
 - It was a team project that would fill criteria for an assignment to showcase my learnings in basic web development
