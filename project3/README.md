@@ -1,13 +1,10 @@
 ## Full Stack Space tours website
-Give a high-level overview of the project purpose
-- What are the users?
-  Anybody
-- What job does it form for them?
-  Gives a pleasing website to browse and learn about space tourism
-- What inspired you to make it?
-It was a team project that would fill criteria for an assignment
-- What features are the most important?
-  the navigation bar and HTML displays
+- A basic informational website using HTML, CSS, and Javascript 
+- Focuses on any user who would like to learn more about space tourism
+- Provides a pleasing user experience to browse and learn about space tourism
+- It was a team project that would fill criteria for an assignment to showcase my learnings in basic web development
+- The entire sit focuses on accessiblity and ease of access - the navigation bar and HTML displays are both visually appealing and intuitave to navigate
+  
 
 
 ## Technologies
