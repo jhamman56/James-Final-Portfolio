@@ -1,15 +1,17 @@
-## Project #1
+## Finance Tracker full stack application
 Give a high-level overview of the project purpose
 - What are the users?
+  Anyone that would want to track finances
 - What job does it form for them?
+  Tracks finances along with allowing for setting goals
 - What inspired you to make it?
+  I was inspired to make it because I wanted more experience with Kotlin and it seemed like something I could make for practice
 - What features are the most important?
-- Include relevant screenshots
+
 
 ## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+-Kotlin 1.9.0
+-Java V8
 
 ## Competencies
 ### JF XX.XX
