@@ -1,29 +1,23 @@
 ## Finance Tracker full stack application
-Give a high-level overview of the project purpose
-- What are the users?
-  Anyone that would want to track finances
-- What job does it form for them?
-  Tracks finances along with allowing for setting goals
-- What inspired you to make it?
-  I was inspired to make it because I wanted more experience with Kotlin and it seemed like something I could make for practice
-- What features are the most important?
+Independent project creating applications to track personal finances - user is able to add, remove, and edit expenses; additionally, user is able to categorise expenses as well.
+- This app would appeal to anyone who would want to have a basic tracking system for their personal spending and finances
+- Provides a simple user interface that allows for ease of access and efficient entry to effectively track finance goals.
+- I wanted more experience with Kotlin and the full stack experience - additionally, I wanted to create an application that had a tangible connection to a real-world issue that I could solve
+- Most important feature is the effective implementation of RESTful CRUD routes
 
 
 ## Technologies
--Kotlin 1.9.0
--Java V8
+- Kotlin 1.9.0
+- Java V 8
+
 
 ## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### JF 2: Take a business a business or user problem, gather data to analyze the problem, and use prototyping tools to create a high fidelity wireframe and UI framework, test the applications, and use agile project management
+- JF2.1
+  - Can create and analyze artefacts, such as use cases and/or user stories
+  - I spent a significant amount of time trying to think through what basic requirements and needs would appel to someone wanting to track their finances
+- JF2.2
+  - Can identify relevant and up-to-date software designs and how to read and implement funcional/technical specifications
+  - This project greatly helped me in developing my understanding of Kotlin, which is becoming as popular as JAva as a OOP language-in-demand
 
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+
