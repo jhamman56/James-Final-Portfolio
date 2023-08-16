@@ -1,15 +1,19 @@
-## Project #3
+## Full Stack Space tours website
 Give a high-level overview of the project purpose
 - What are the users?
+  Anybody
 - What job does it form for them?
+  Gives a pleasing website to browse and learn about space tourism
 - What inspired you to make it?
+It was a team project that would fill criteria for an assignment
 - What features are the most important?
-- Include relevant screenshots
+  the navigation bar and HTML displays
+
 
 ## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+- JavaScript
+- CSS
+- HTML
 
 ## Competencies
 ### JF XX.XX
